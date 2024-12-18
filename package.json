@@ -1,0 +1,23 @@
+{
+  "name": "testing-e2e-finance",
+  "version": "1.0.0",
+  "description": "Esse repositório faz parte de uma atividade com relação a matéria Teste de Software durante o curso de Análise e Desenvolvimento de Sistemas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThalyssonEmanoel/testing-E2E-finance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThalyssonEmanoel/testing-E2E-finance/issues"
+  },
+  "homepage": "https://github.com/ThalyssonEmanoel/testing-E2E-finance#readme",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
