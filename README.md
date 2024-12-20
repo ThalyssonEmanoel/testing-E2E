@@ -1,4 +1,5 @@
-# Práticas com testes E2E
+
+# testing-E2E
 
 Este projeto contém testes end-to-end (E2E) para atividades e práticas de dentro e fora de sala de aula.
 
@@ -9,7 +10,7 @@ Este projeto contém testes end-to-end (E2E) para atividades e práticas de dent
 ## Estrutura do Projeto
 
 - `cypress/`: Contém os testes E2E.
-- `integration/`: Contém os arquivos de teste.
+- `e2e/`: Contém os arquivos de teste.
 - `fixtures/`: Contém dados de teste.
 - `support/`: Contém comandos e configurações adicionais.
 - `reports/`: Contém os relatórios de testes gerados.
