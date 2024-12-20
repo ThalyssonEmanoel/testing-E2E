@@ -1,0 +1,16 @@
+{
+  "name": "testing-e2e-finance",
+  "version": "1.0.0",
+  "description": "Esse repositório faz parte de uma atividade com relação a matéria Teste de Software durante o curso de Análise e Desenvolvimento de Sistemas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.16.1"
+  }
+}
