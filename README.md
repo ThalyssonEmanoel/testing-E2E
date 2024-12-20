@@ -9,9 +9,9 @@ Este projeto contém testes end-to-end (E2E) para atividades e práticas de dent
 ## Estrutura do Projeto
 
 - `cypress/`: Contém os testes E2E.
-  - `integration/`: Contém os arquivos de teste.
-  - `fixtures/`: Contém dados de teste.
-  - `support/`: Contém comandos e configurações adicionais.
+- `integration/`: Contém os arquivos de teste.
+- `fixtures/`: Contém dados de teste.
+- `support/`: Contém comandos e configurações adicionais.
 - `reports/`: Contém os relatórios de testes gerados.
 - `README.md`: Este arquivo.
 
